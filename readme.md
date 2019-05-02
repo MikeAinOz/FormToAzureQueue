@@ -6,7 +6,7 @@ This function is designed to be called from MailChimp webhooks
 ## How it works
 
 When you call the function, be sure you checkout which security rules you apply. If you're using an apikey, you'll need to include that in your request.
-The funtion reads form data and then saves it to an Azure Storage Que
+The function reads form data and then saves it to an Azure Storage Que
 
 ## Learn more
 
